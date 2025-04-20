@@ -1,3 +1,7 @@
-h1 {
-    color: red;
+:root {
+    --background-gray1: #545454;
+    --background-gray2: #7a7a7a;
+    --background-gray3: #949494;
+    --background-gray4: #bebebe;
+    --color-white: #fff;
 }
